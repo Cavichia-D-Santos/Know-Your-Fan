@@ -1,0 +1,12 @@
+{
+    "username": "Mister Sora",
+    "name": "Thiago Santos",
+    "level": 2,
+    "exp": 320,
+    "nextLevelExp": 500,
+    "joinDate": "2025",
+    "rank": 134,
+    "connections": ["twitch", "steam", "xbox"],
+    "games": ["valorant", "cs2"],
+    "missions": ["mission1", "mission2", "mission3"]
+  }

@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Conecte sua conta",
+      "description": "Vincule sua conta do Discord para receber atualizações automáticas.",
+      "reward": "+50 XP",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Complete seu perfil",
+      "description": "Adicione uma foto e preencha seus dados.",
+      "reward": "+30 XP",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Convide um amigo",
+      "description": "Convide um amigo para participar da comunidade.",
+      "reward": "Badge Exclusiva",
+      "completed": false
+    }
+  ]
