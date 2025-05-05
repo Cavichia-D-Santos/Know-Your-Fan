@@ -1,0 +1,32 @@
+{
+    "cs2": {
+      "title": "Counter-Strike 2",
+      "banner": "cs2_hb",
+      "lineup": [
+        { "name": "KSCERATO", "image": "kscerato" },
+        { "name": "yuurih", "image": "yuurih" },
+        { "name": "chelo", "image": "chelo" },
+        { "name": "fallen", "image": "fallen" },
+        { "name": "art", "image": "art" }
+      ],
+      "matches": [
+        { "opponent": "NAVI", "result": "Vitória", "score": "2-1" },
+        { "opponent": "G2", "result": "Derrota", "score": "1-2" },
+        { "opponent": "FaZe", "result": "Vitória", "score": "2-0" }
+      ]
+    },
+    "valorant": {
+      "title": "Valorant",
+      "banner": "valorant_hb",
+      "lineup": [
+        { "name": "Fallen", "image": "fallen" },
+        { "name": "KSCERATO", "image": "kscerato" },
+        { "name": "yuurih", "image": "yuurih" },
+        { "name": "art", "image": "art" }
+      ],
+      "matches": [
+        { "opponent": "LOUD", "result": "Vitória", "score": "13-7" },
+        { "opponent": "Sentinels", "result": "Derrota", "score": "11-13" }
+      ]
+    }
+  }

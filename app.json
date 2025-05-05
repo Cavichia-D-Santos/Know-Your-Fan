@@ -5,6 +5,7 @@
       "expo-router"
     ],
     "name": "Know-Your-Fan",
-    "slug": "Know-Your-Fan"
+    "slug": "Know-Your-Fan",
+    "icon": "./assets/images/furiaEsports.png"
   }
 }
